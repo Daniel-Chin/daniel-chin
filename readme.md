@@ -1,2 +1,2 @@
-# My personal website
+### My website
 [https://daniel-chin.netlify.app/](https://daniel-chin.netlify.app/)  
